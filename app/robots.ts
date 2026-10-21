@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "http://localhost:3000/sitemap.xml",
+    sitemap: "https://zohaib-ranjha.vercel.app/sitemap.xml",
   };
 }

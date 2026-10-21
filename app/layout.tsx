@@ -8,7 +8,7 @@ const poppins = Poppins({
   weight: ["400", "500", "600"]
 })
 
-const siteUrl = "http://localhost:3000";
+const siteUrl = "https://zohaib-ranjha.vercel.app/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

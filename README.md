@@ -4,4 +4,4 @@ A modern, responsive personal portfolio built with **Next.js, TypeScript, and Ta
 
 ## 🌐 Live Demo
 
-- **Portfolio:** [https://zohaibdev-official.vercel.app/](https://zohaibdev-official.vercel.app/)
+- **Portfolio:** [https://zohaib-ranjha.vercel.app/](https://zohaib-ranjha.vercel.app/)

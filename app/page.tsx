@@ -490,9 +490,9 @@ const socialLinks = [
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "http://localhost:3000/#person",
+  "@id": "https://zohaib-ranjha.vercel.app/#person",
   name: "Muhammad Zohaib",
-  url: "http://localhost:3000/",
+  url: "https://zohaib-ranjha.vercel.app/",
   jobTitle: "Full-Stack MERN Developer",
   description:
     "Full-Stack MERN Developer based in Lahore, Pakistan.",
