@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#080B1F"/>
+  <path
+    d="M15 17 H49 L18 47 H49"
+    fill="none"
+    stroke="url(#z-gradient)"
+    stroke-width="8"
+    stroke-linecap="square"
+    stroke-linejoin="bevel"
+  />
+  <defs>
+    <linearGradient id="z-gradient" x1="15" y1="17" x2="49" y2="47">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="52%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+</svg>
