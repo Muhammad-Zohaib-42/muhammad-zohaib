@@ -38,6 +38,9 @@ export const metadata: Metadata = {
     title: "Muhammad Zohaib | Full-Stack MERN Developer",
     description: "Full-Stack MERN Developer based in Lahore, Pakistan.",
     images: ["/og-image.png"],
+  },
+  verification: {
+    google: "351SmDFjJWRB1RMNZCIQwHAihlkBcel8kPibINyDGnE"
   }
 };
 
